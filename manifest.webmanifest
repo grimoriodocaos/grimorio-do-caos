@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Grimório do Caos • Artes Místicas, Simbolismo e Autoconhecimento",
+  "short_name": "Grimório do Caos",
+  "description": "Sigilos, autoconhecimento, estudos e práticas espirituais.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08060D",
+  "theme_color": "#30104F",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

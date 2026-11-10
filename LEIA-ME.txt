@@ -1,0 +1,10 @@
+GRIMÓRIO DO CAOS • PWA
+
+1. Publique TODOS os arquivos e a pasta icons em um serviço de hospedagem estática com HTTPS (ex.: GitHub Pages ou Netlify).
+2. Abra o endereço HTTPS no celular.
+3. Android: toque em Instalar no celular, ou use o menu do navegador > Instalar aplicativo / Adicionar à tela inicial.
+4. iPhone: abra no Safari > Compartilhar > Adicionar à Tela de Início.
+5. Depois da primeira visita, as páginas principais ficam disponíveis offline.
+
+IMPORTANTE: abrir index.html diretamente do gerenciador de arquivos NÃO ativa a instalação PWA nem o service worker.
+Os dados pessoais são salvos localmente no navegador. Não são sincronizados entre aparelhos. Faça backups pela função do aplicativo. A biblioteca de experiências ainda é local, não pública.
